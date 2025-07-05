@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 
@@ -11,6 +11,12 @@ public class GameManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        if (PlayerPrefs.HasKey("SavedScore"))
+        {
+            score = PlayerPrefs.GetInt("SavedScore");
+            PlayerPrefs.DeleteKey("SavedScore");
+        }
+
         UpdateScore();
         GameOverUI.SetActive(false);
     }
@@ -45,10 +51,19 @@ public class GameManager : MonoBehaviour
         score = 0;
         UpdateScore();
         Time.timeScale = 1;
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
     public bool IsGameOver()
     {
         return isGameOver;
+    }
+    public void ExitGame()
+    {
+        Debug.Log("Thoát game...");
+    #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+    #else
+        Application.Quit();
+    #endif
     }
 }

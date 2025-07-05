@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\game\\Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|d:\\game\\lab\\assets\\scipts\\trapmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\trapmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|d:\\game\\lab\\assets\\scipts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|D:\\game\\Lab\\assets\\scipts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|D:\\game\\Lab\\assets\\scipts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|D:\\game\\Lab\\assets\\scipts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|D:\\game\\Lab\\assets\\scipts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|d:\\game\\lab\\assets\\scipts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|D:\\game\\Lab\\assets\\scipts\\trapmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\trapmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "D:\\game\\Lab\\Assets\\Scipts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\MainMenuManager.cs",
+              "ToolTip": "D:\\game\\Lab\\Assets\\Scipts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scipts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:16:02.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TrapMovement.cs",
               "DocumentMoniker": "D:\\game\\Lab\\Assets\\Scipts\\TrapMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\TrapMovement.cs",
@@ -43,43 +60,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlayerCollision.cs",
               "DocumentMoniker": "D:\\game\\Lab\\Assets\\Scipts\\PlayerCollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\PlayerCollision.cs",
               "ToolTip": "D:\\game\\Lab\\Assets\\Scipts\\PlayerCollision.cs",
               "RelativeToolTip": "Assets\\Scipts\\PlayerCollision.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T16:17:40.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\game\\Lab\\Assets\\Scipts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\GameManager.cs",
               "ToolTip": "D:\\game\\Lab\\Assets\\Scipts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scipts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T16:25:14.067Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\game\\Lab\\Assets\\Scipts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\PlayerController.cs",
               "ToolTip": "D:\\game\\Lab\\Assets\\Scipts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scipts\\PlayerController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T14:29:34.142Z",
               "EditorCaption": ""
